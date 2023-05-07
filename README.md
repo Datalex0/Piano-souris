@@ -3,11 +3,11 @@
 ## Piano virtuel qui se joue en cliquant sur les touches
 
 
-Gamme : DO RE MI FA SOL LA SI
+<ins>Gamme</ins> : DO RE MI FA SOL LA SI
 
 2 Octaves
 
-SRC contient :
+<ins>SRC contient</ins> :
 * le code
 * les notes
 * une image du piano
