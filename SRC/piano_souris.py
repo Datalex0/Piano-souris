@@ -8,21 +8,21 @@ pygame.init()
 pygame.mixer.init()
  
 notes = {
-    'DO': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39172__jobro__piano-ff-025.wav"),
-    'RE': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39174__jobro__piano-ff-027.wav"),
-    'MI': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39176__jobro__piano-ff-029.wav"),
-    'FA': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39177__jobro__piano-ff-030.wav"),
-    'SOL': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39179__jobro__piano-ff-032.wav"),
-    'LA': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39181__jobro__piano-ff-034.wav"),
-    'SI': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39183__jobro__piano-ff-036.wav"),
+    'DO': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/1_DO.wav"),
+    'RE': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/2_RE.wav"),
+    'MI': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/3_MI.wav"),
+    'FA': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/4_FA.wav"),
+    'SOL': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/5_SOL.wav"),
+    'LA': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/6_LA.wav"),
+    'SI': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/7_SI.wav"),
     
-    'DO2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39184__jobro__piano-ff-037.wav"),
-    'RE2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39186__jobro__piano-ff-039.wav"),
-    'MI2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39188__jobro__piano-ff-041.wav"),
-    'FA2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39189__jobro__piano-ff-042.wav"),
-    'SOL2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39191__jobro__piano-ff-044.wav"),
-    'LA2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39194__jobro__piano-ff-046.wav"),
-    'SI2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Bureau/DATA/Project Review/NOTES/39196__jobro__piano-ff-048.wav")
+    'DO2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/8_DO2.wav"),
+    'RE2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/9_RE2.wav"),
+    'MI2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/10_MI2.wav"),
+    'FA2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/11_FA2.wav"),
+    'SOL2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/12_SOL2.wav"),
+    'LA2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/13_LA2.wav"),
+    'SI2': pygame.mixer.Sound("C:/Users/murai/OneDrive/Documents/GitHub/Piano souris/SRC/Notes/14_SI2.wav")
 }
 
 def jouerNote(note):
