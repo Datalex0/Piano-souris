@@ -9,7 +9,7 @@
 
 <ins>Le SRC contient</ins> :
 * le code :computer:
-* les notes :notes:
+* le fichier son de chaque note :notes:
 * une image du piano :
 
 ![visuel piano](https://github.com/Datalex0/Piano-souris/blob/d62f9c72f7ab6ae29c9599b0d88ad10c6cda399b/SRC/image%20piano.JPG)
