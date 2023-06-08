@@ -7,6 +7,9 @@
 
 2 Octaves :musical_score:
 
+Librairies utilisées : **tkinter**, **pygame**
+##
+
 <ins>Le SRC contient</ins> :
 * le code :computer:
 * le fichier son de chaque note :notes:
