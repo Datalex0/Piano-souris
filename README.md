@@ -1,4 +1,4 @@
-# :musical_keyboard: Piano souris :musical_keyboard:
+# - :musical_keyboard: Piano souris :musical_keyboard: -
 
 ## Piano virtuel qui se joue en cliquant sur les touches
 
